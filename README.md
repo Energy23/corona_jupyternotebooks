@@ -9,6 +9,10 @@ Various visualizations of the corona pandemic based on data from the Johns Hopki
 + Easy select multiple countries
 + Slider for start date offset
 
+## Upcoming features
++ Doubling time visualisation
++ Automatic update on slider offset change 
+
 ## Data Sources
 + https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/
 + https://github.com/samayo/country-json
