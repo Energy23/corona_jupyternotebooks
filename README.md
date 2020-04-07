@@ -15,3 +15,4 @@ Various visualizations of the corona pandemic based on data from the Johns Hopki
 
 Under the following link a temporary notebook can be spawned. Here you can view the visualisations and implement anything you want to do with the data.
 
+https://go.upb.de/coronavisualisation
